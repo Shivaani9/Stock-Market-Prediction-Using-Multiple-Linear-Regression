@@ -5,6 +5,7 @@ Stock Prices of Major Tech Giants like Tesla, Microsoft, Google, Apple, Amazon i
 How The Process is Performed:
 
 
+
 ![image](https://user-images.githubusercontent.com/67979587/130528718-8dda1974-4271-4fb9-9b75-7b40f5766d2b.png)
 
 Software Used is Jupyter Notebook and Programming Language is Python
