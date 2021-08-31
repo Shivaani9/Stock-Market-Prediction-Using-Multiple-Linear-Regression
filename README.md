@@ -3,6 +3,7 @@
 Stock Prices of Major Tech Giants like Tesla, Microsoft, Google, Apple, Amazon is Predicted using Multiple Linear Regression and Least Squares method, with a prediction accuracy of 99%.
 The data set is obtained from Yahoo Finance and is Real Time.
 The Whole Project can be subdivided into 2 main processess' taking place
+
 1. Analysis of the Stock Prices
 2. Prediction of the Stock Prices 
 
